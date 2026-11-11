@@ -1,24 +1,32 @@
 # Linux Server Administration Lab
 
-## Overview
-A hands-on Linux System Administration project built using Red Hat Enterprise Linux 9.6 and VMware Workstation.
+Hands-on Linux System Administration project using Red Hat Enterprise Linux 9.6 and VMware Workstation.
 
 ## Lab Environment
-- Two RHEL 9.6 Virtual Machines
+- Red Hat Enterprise Linux 9.6
+- Two Virtual Machines
 - VMware Workstation
-- Linux user and group management
-- SSH and remote administration
+- MobaXterm (SSH)
 
-## Key Skills
+## Practical Labs
+
+| Lab | Description |
+|---|---|
+| [File Management](labs/file-management/) | File and directory operations |
+| [SSH Administration](labs/ssh/) | Remote server access |
+| [Networking](labs/networking/) | Network connectivity testing |
+
+## Technical Skills
+- Linux Command Line
 - User and Group Management
 - File Permissions and Ownership
-- Linux Command Line
-- SSH Configuration
-- Server Administration
+- SSH Remote Administration
+- Network Troubleshooting
 - System Configuration
+- Git and GitHub
 
-## Project Status
-Currently developing and documenting practical Linux administration tasks.
+## Project Objective
+Building practical Linux administration skills through hands-on labs, configuration, and technical documentation.
 
-## Objective
-To develop practical skills in Linux System Administration and IT Infrastructure.
+## Status
+Continuously developing and documenting new labs.
