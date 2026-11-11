@@ -1,0 +1,11 @@
+Linux System Administration | RHEL 9.6
+
+Hands-on practice in Linux server administration.
+
+Topics:
+- File and Directory Management
+- User and Group Permissions
+- SSH Configuration
+- Network Administration
+
+Environment: RHEL 9.6 | VMware Workstation
